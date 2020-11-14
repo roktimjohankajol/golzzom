@@ -1,0 +1,133 @@
+.navbar{
+    font-size:20px;
+}
+.navbar-rand{
+    font-size:30px;
+    color:#fff;
+}
+.navbar-rand:hover{
+    color:#fff;
+    text-decoration:none;
+}
+.carousel-item{
+    height:550px;
+}
+.carousel-img-1{
+    background:url(image/image1.jpeg);
+    background-size:cover;
+}
+.carousel-img-2{
+    background:url(image/image2.jpeg);
+    background-size:cover;
+}
+.carousel-img-3{
+    background:url(image/image3.jpeg);
+    background-size:cover;
+}
+.carousel-caption{
+    margin-bottom:110px;
+}
+.homeIcon{
+    font-size:35px;
+    margin-bottom:15px;
+}
+#homeSection{
+    padding:35px 0;
+}
+#readySection{
+    background:url(image/bg1.jpeg);
+    background-size:cover;
+    background-attachment:fixed;
+   
+}
+.fixedItem{
+    background:#333;
+    opacity:0.8;
+    padding:50px 0;
+}
+#newSection{
+    padding:50px 0;
+}
+#videoSection{
+    background:url(image/people.jpeg);
+    background-size:cover;
+    background-attachment:fixed;
+}
+.darkItem{
+    padding:50px 0;
+    background:#333;
+    opacity:0.8;
+}
+.far{
+    font-size:50px;
+    margin:20px;
+    color:red;
+}
+#photoSection{
+    margin:50px 0;
+}
+#contactSection{
+    padding:50px 0;
+}
+#copyRightSection{
+    background:black;
+    padding:15px 0;
+    color:#fff;
+}
+.navbar{
+    background:black;
+}
+#aboutSection{
+    background:url(image/image1.jpeg);
+    background-size:cover;
+    background-attachment:fixed;
+    height:250px;
+    padding:100px 0;
+}
+#redius{
+    border-radius:50%;
+    width:400px; 
+    height:400px;
+}
+#whatSection{
+    padding:50px 0;
+}
+#loremSection{
+    padding:50px 0;
+}
+#sliderImg{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    margin:auto;
+    display:block;
+}
+#slider{
+    padding:50px 0;
+}
+#serviceSection{
+    background:url(image/image2.jpeg);
+    background-size:cover;
+    background-attachment:fixed;
+    height:250px;
+    padding:100px 0;
+}
+#serviceCardArea{
+    padding:50px 0;
+}
+#accordion{
+    padding:50px 0;
+}
+#blogSection{
+    background:url(image/image3.jpeg);
+    background-size:cover;
+    background-attachment:fixed;
+    height:250px;
+    padding:100px 0;
+}
+#blogSectionArea{
+    padding:50px 0;
+}
+#contactArea{
+    padding:50px 0;
+}
